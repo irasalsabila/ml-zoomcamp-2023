@@ -143,7 +143,3 @@ Options:
 
 ## Code repository
 Code repository can be found [here](https://github.com/irasalsabila/ml-zoomcamp-2023/blob/main/02-homework.ipynb)
-
-## Deadline
-
-The deadline for submitting is September 25 (Monday), 23:00 CET. After that the form will be closed.
